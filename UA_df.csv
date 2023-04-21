@@ -1,0 +1,40 @@
+,id,target,path,dataset,severity,speech,filename
+0,F02,moisten,/content/drive/MyDrive/thesis/UASpeech/audio/F02/F02_B1_UW81_M2.wav,UA,medium,"[ 2.1362305e-04  2.1362305e-04  1.5258789e-04 ... -2.7465820e-04
+  3.0517578e-05 -2.4414062e-04]",F02_B1_UW81_M2.wav
+1,F02,abbreviated,/content/drive/MyDrive/thesis/UASpeech/audio/F02/F02_B2_UW15_M3.wav,UA,medium,"[1.8310547e-04 6.1035156e-05 1.2207031e-04 ... 2.6550293e-03 2.5024414e-03
+ 2.4108887e-03]",F02_B2_UW15_M3.wav
+2,F02,without,/content/drive/MyDrive/thesis/UASpeech/audio/F02/F02_B3_UW40_M5.wav,UA,medium,"[ 0.0000000e+00  3.0517578e-05  1.2207031e-04 ... -2.3132324e-02
+ -2.3468018e-02 -2.3651123e-02]",F02_B3_UW40_M5.wav
+3,F02,casualties,/content/drive/MyDrive/thesis/UASpeech/audio/F02/F02_B1_UW29_M3.wav,UA,medium,"[ 9.1552734e-05  6.1035156e-05  1.2207031e-04 ... -2.2277832e-03
+ -1.9531250e-03 -2.0446777e-03]",F02_B1_UW29_M3.wav
+4,F02,downward,/content/drive/MyDrive/thesis/UASpeech/audio/F02/F02_B1_C17_M6.wav,UA,medium,"[-0.00018311  0.          0.         ... -0.00198364 -0.00186157
+ -0.00161743]",F02_B1_C17_M6.wav
+5,F02,each,/content/drive/MyDrive/thesis/UASpeech/audio/F02/F02_B1_CW43_M4.wav,UA,medium,"[ 6.1035156e-05  6.1035156e-04  3.9672852e-04 ... -4.1198730e-03
+ -4.8522949e-03 -4.8828125e-03]",F02_B1_CW43_M4.wav
+6,F02,how,/content/drive/MyDrive/thesis/UASpeech/audio/F02/F02_B3_CW47_M8.wav,UA,medium,"[ 0.00064087  0.00082397  0.00097656 ... -0.00088501 -0.00283813
+ -0.0039978 ]",F02_B3_CW47_M8.wav
+7,F02,absolve,/content/drive/MyDrive/thesis/UASpeech/audio/F02/F02_B2_UW17_M8.wav,UA,medium,[0.00076294 0.00079346 0.00088501 ... 0.0090332  0.00875854 0.00857544],F02_B2_UW17_M8.wav
+8,F02,thumb,/content/drive/MyDrive/thesis/UASpeech/audio/F02/F02_B2_UW100_M6.wav,UA,medium,"[-0.00039673 -0.00030518 -0.00030518 ...  0.00280762  0.00280762
+  0.00286865]",F02_B2_UW100_M6.wav
+9,F02,episode,/content/drive/MyDrive/thesis/UASpeech/audio/F02/F02_B3_UW68_M3.wav,UA,medium,"[-9.1552734e-05 -1.8310547e-04 -2.7465820e-04 ... -1.5258789e-04
+ -9.1552734e-05 -3.0517578e-05]",F02_B3_UW68_M3.wav
+10,F02,advantageous,/content/drive/MyDrive/thesis/UASpeech/audio/F02/F02_B2_UW21_M7.wav,UA,medium,"[ 6.1035156e-05 -3.0517578e-05  3.0517578e-05 ...  3.8452148e-03
+  3.6315918e-03  3.4179688e-03]",F02_B2_UW21_M7.wav
+11,F02,delta,/content/drive/MyDrive/thesis/UASpeech/audio/F02/F02_B1_LD_M6.wav,UA,medium,"[-1.8310547e-04 -1.5258789e-04 -3.0517578e-05 ... -8.4533691e-03
+ -8.1787109e-03 -7.9650879e-03]",F02_B1_LD_M6.wav
+12,F02,absorb,/content/drive/MyDrive/thesis/UASpeech/audio/F02/F02_B2_UW18_M2.wav,UA,medium,"[-3.0517578e-05  6.1035156e-05 -6.1035156e-05 ...  1.5258789e-03
+  1.4953613e-03  1.2817383e-03]",F02_B2_UW18_M2.wav
+13,F02,watch,/content/drive/MyDrive/thesis/UASpeech/audio/F02/F02_B2_UW82_M3.wav,UA,medium,"[ 3.0517578e-05  3.0517578e-05  6.1035156e-05 ... -1.4648438e-03
+ -1.5258789e-03 -1.5869141e-03]",F02_B2_UW82_M3.wav
+14,F02,nine,/content/drive/MyDrive/thesis/UASpeech/audio/F02/F02_B2_D9_M3.wav,UA,medium,"[ 1.8310547e-04  1.2207031e-04  6.1035156e-05 ... -1.5258789e-03
+ -1.4343262e-03 -1.4343262e-03]",F02_B2_D9_M3.wav
+15,F02,yankee,/content/drive/MyDrive/thesis/UASpeech/audio/F02/F02_B3_LY_M2.wav,UA,medium,"[-3.0517578e-05 -6.1035156e-05  6.1035156e-05 ... -1.8310547e-04
+  3.0517578e-05  2.7465820e-04]",F02_B3_LY_M2.wav
+16,F02,victor,/content/drive/MyDrive/thesis/UASpeech/audio/F02/F02_B1_LV_M5.wav,UA,medium,"[ 3.0517578e-05 -9.1552734e-05 -6.1035156e-05 ... -1.3427734e-03
+ -1.3732910e-03 -1.3427734e-03]",F02_B1_LV_M5.wav
+17,F02,tab,/content/drive/MyDrive/thesis/UASpeech/audio/F02/F02_B1_C5_M8.wav,UA,medium,"[ 6.1035156e-05  6.1035156e-05  3.0517578e-05 ... -2.6336670e-02
+ -2.5299072e-02 -2.6367188e-02]",F02_B1_C5_M8.wav
+18,F02,left,/content/drive/MyDrive/thesis/UASpeech/audio/F02/F02_B1_C18_M4.wav,UA,medium,"[ 3.0517578e-05  9.1552734e-05  0.0000000e+00 ... -2.4108887e-03
+ -2.8381348e-03 -2.9602051e-03]",F02_B1_C18_M4.wav
+19,F02,digest,/content/drive/MyDrive/thesis/UASpeech/audio/F02/F02_B2_UW75_M7.wav,UA,medium,"[ 3.0517578e-05  3.0517578e-05 -3.0517578e-05 ...  1.3427734e-03
+  1.4038086e-03  1.8920898e-03]",F02_B2_UW75_M7.wav

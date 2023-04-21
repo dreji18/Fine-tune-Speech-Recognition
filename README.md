@@ -2,3 +2,4 @@
 Tutorial on how to train a custom voice recognition model using Hugging face models.
 
 Video link: https://youtu.be/7e75HuVFpYI
+![thumbnail](https://user-images.githubusercontent.com/49631017/233625269-0609a9f7-6ad1-44d1-8884-86d2846b56f4.png)
